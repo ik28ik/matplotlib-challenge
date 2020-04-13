@@ -1,22 +1,15 @@
-# Matplotlib Homework - The Power of Plots
+
+This repo contains homework from the Matplotlib lecture series from The Columbia Engineering Data Analytics Boot Camp.
+
+## Pymaceuticals 
+
+This notebook analyzes the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare after monitoring 250 mice that were treated through a variety of drug regimes over the course of 45 days.
+
+* The analysis highlights the following: 
+	* A scatter plot that shows how the tumor volume changes over time for each treatment.
+	* A scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+	* A scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+	* A bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
 
 
-## Pymaceuticals Instructions
-
-
-As their Chief Data Analyst, you've been given access to the complete data from their most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. Your objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
-
-To do this you are tasked with:
-
-* Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
-* Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
-* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-* Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-* Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
-
-
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
